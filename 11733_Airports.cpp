@@ -1,4 +1,4 @@
-/*	-= ACCEPTED =-
+/*	-= ACCEPTED =-  
  * 	UVA JUDGE 11733 - Airports  
  * 	CATEGORIA: ARVORE GERADORA MINIMA - KRUSKAL
  * 	
@@ -8,6 +8,8 @@
  * 	CRESCENTE, LOGO, QUANDO ENCONTRAMOS A PRIMEIRA ARESTA QUE E MAIOR
  * 	QUE O VALOR DE CONSTRUIR UM AEROPORTO, SAIMOS DO LAÇO FOR DO 
  * 	ALGORITMO DE KRUSKAL.
+ *      EMAIL : italofernandes.fg@gmail.com
+ *      .: BRBR
  */
 
 #include <bits/stdc++.h>
