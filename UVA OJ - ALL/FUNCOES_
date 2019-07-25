@@ -1,0 +1,9 @@
+bool isalpha(char) --> Check if character is alphabetic
+bool isdigit(char) --> Check if character is a decimal digit using locale
+bool isalnum(char) --> Check if character is alphanumeric using locale
+toupper(char) --> Convert lowercase letter to uppercase
+
+
+
+
+gets -> faz leitura ate o caracter de NOVA LINHA(\n) ou FIM DE ARQUIVO(EOF)
