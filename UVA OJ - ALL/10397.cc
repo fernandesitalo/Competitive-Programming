@@ -10,6 +10,7 @@ priority_queue<ii,vector<ii>,greater<ii> > pq;
 vi vis;
 
 void process(int vtx){
+	//vis[vtx] = 2; testando commit git - esta eh uma alteracao
 	vis[vtx] = 1;
 	for(int j = 0 ; j < (int) adj[vtx].size() ; ++j){
 		ii v = adj[vtx][j];
